@@ -1,4 +1,4 @@
-# Bird’s-Eye-View Transformation from Multiple Vehicle Camera Images
+# Bird’s-Eye-View Transformation from Multiple Camera View Images
 
 ## Introduction
 This repository contains the implementation of our methodology for transforming multiple vehicle-mounted camera images into a bird’s-eye view (BEV). This approach is crucial in applications like traffic management, autonomous driving, and urban planning. We leverage deep learning architectures to model spatial relationships and depth cues in on-ground images, enhancing the accuracy and realism of the top-down transformation.
@@ -15,7 +15,7 @@ This repository contains the implementation of our methodology for transforming 
 
 ## Setup and Training Instructions
 1. **Environment Setup**:
-    - Clone the repository: `https://github.com/ayushgoel24/Birds-Eye-View-from-Multiple-Vehicle-Camera-Images`.
+    - Clone the repository: `https://github.com/RenuReddyK/Birds-Eye-View-from-Multiple-Camera-Views.git`.
     - Install the required libraries: `pip install -r requirements.txt`.
 
 2. **Model Training**:
