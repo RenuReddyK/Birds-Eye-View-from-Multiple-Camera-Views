@@ -3,11 +3,6 @@
 ## Introduction
 This repository contains the implementation of our methodology for transforming multiple vehicle-mounted camera images into a bird’s-eye view (BEV). This approach is crucial in applications like traffic management, autonomous driving, and urban planning. We leverage deep learning architectures to model spatial relationships and depth cues in on-ground images, enhancing the accuracy and realism of the top-down transformation.
 
-## Team Members
-- Ayush Goel - aygoel@seas.upenn.edu
-- Ojas Mandlecha - ojasm@seas.upenn.edu
-- Renu Reddy Kasala - renu1@seas.upenn.edu
-
 ## Implementation Details
 - **Dataset**: We used the CARLA simulator dataset, comprising images from left, right, front, rear-view cameras, and an aerial top-down view from a drone’s perspective.
 - **Methodology**: 
